@@ -1,0 +1,12 @@
+id,name,is_disabled
+1,Receiving,0
+2,Issuance,0
+8,Storage,0
+9,OOS,0
+10,Admin,0
+11,Executive,0
+12,Managers,0
+13,Supervisors,0
+14,Shift Leaders,0
+15,Process Leaders,0
+16,Operation Job Site,1
